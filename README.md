@@ -6,7 +6,12 @@
 
 ## LinkedIn: https://www.linkedin.com/in/kevinbui628/
 
+⚙𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
+Development: Python, NumPy, Pandas, Scikit-learn, SQL, R, Excel, TensorFlow, PyTorch, Keras, Scala, Spark, Flask, Plotly
+Frameworks: TensorFlow, SpaCy, Keras, Heroku, PostgreSQL, MongoDB, Docker
+Expertise: Dash, Matplotlib, Data/K-Cluster/Predictive Analysis, Linear and Multivariate Regressions, Machine Learning
+Additional: Data cleaning, Data analysis, Data visualization, K-Cluster Analysis, Machine Learning, NLP, Project Management, Ocular Imaging Techniques, Communication, Clinical Management, Microsoft Office, Goal Coordination
 <!--
 **kevinbui100/kevinbui100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
