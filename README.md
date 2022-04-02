@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Kevin and I am a Data Scientist with a profound interest in the biotech field since my experience consists of extensive clinical research. My current job as an Ocular Disease Evaluator sparked a huge interest in data science as I collect data for many different clinical research studies. I have a deep understanding of how impactful machine learning translates to healthcare and how I can have a huge role in the development of medicine and technology to benefit human life.
 
+🅵🆄🅽  🅵🅰🅲🆃: I enjoy playing competitive pickleball where I compete in local tournaments. I also love to play tennis and basketball. Go Lakers! My favorite NFL team is the Baltimore Ravens since I grew up in Maryland. #ravensflock!
+
+🌐 I’m open to connect and chat about open any BioTech Data Science opportunities
 <!--
 **kevinbui100/kevinbui100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
