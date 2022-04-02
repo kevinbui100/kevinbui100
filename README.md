@@ -3,6 +3,9 @@
 🅵🆄🅽  🅵🅰🅲🆃: I enjoy playing competitive pickleball where I compete in local tournaments. I also love to play tennis and basketball. Go Lakers! My favorite NFL team is the Baltimore Ravens since I grew up in Maryland. #ravensflock!
 
 🌐 I’m open to connect and chat about open any BioTech Data Science opportunities
+LinkedIn: https://www.linkedin.com/in/kevinbui628/
+
+
 <!--
 **kevinbui100/kevinbui100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
